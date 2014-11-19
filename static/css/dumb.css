@@ -1,0 +1,16 @@
+.fill{
+    height: 100%;
+}
+.redblock {
+    background-color: #ffb87c;
+}
+.yellowblock {
+    background-color: #9affbb;
+}
+.dumber{
+    position: absolute;
+    top: 2%;
+    left: 33%;
+    font-family: 'Holtwood One SC', serif;
+    font-size: 40px;
+}
