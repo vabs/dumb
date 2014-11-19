@@ -55,7 +55,6 @@ docs/_build/
 target/
 
 # Pycharm
-.idea
 .idea/
 
 #test db
