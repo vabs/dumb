@@ -13,4 +13,25 @@
     left: 33%;
     font-family: 'Holtwood One SC', serif;
     font-size: 40px;
+    margin: 40px 0 0 11px;
+}
+
+.dumber-btn{
+    top: 35%;
+    margin: 40px 0 0 85px;
+    font-size: 30px;
+}
+
+.dumber-img{
+    left: 1%;
+    margin: 0;
+}
+
+.dumber-img img{
+    height: 250px;
+    margin-top: 5px;
+}
+
+.btn-dumber{
+    font-size: 30px;
 }
